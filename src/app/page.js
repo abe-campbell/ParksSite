@@ -1,11 +1,11 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import React, { useState, memo } from 'react';
+import React, { useState, memo, useEffect } from 'react';
 import 'leaflet/dist/leaflet.css';
 import parks from './components/parkinfo.json';
 import 'leaflet/dist/leaflet.css';
-
+import { useMap } from 'react-leaflet';
 
 // Dynamically import components with no server-side rendering
 const MapContainerNoSSR = dynamic(
@@ -26,11 +26,24 @@ const ParkMarker = dynamic(() => import('./components/markers'), { ssr: false })
 const ParkMarkers = memo(() => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [selectedPark, setSelectedPark] = useState(null);
+  const map = useMap();
 
   const handleMarkerClick = (park) => {
     setSelectedPark(park);
     setSidebarOpen(true);
   };
+
+  useEffect(() => {
+    if (sidebarOpen) {
+      map.scrollWheelZoom.disable(); // Disable scrolling
+    } else {
+      map.scrollWheelZoom.enable(); // Enable scrolling
+    }
+
+    return () => {
+      map.scrollWheelZoom.enable(); // Ensure scrolling is re-enabled on unmount
+    };
+  }, [sidebarOpen, map]);
 
   return (
     <>
