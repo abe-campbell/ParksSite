@@ -1,11 +1,12 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import React, { useState, memo, useEffect } from 'react';
+import React, { useState, memo, useEffect, Component } from 'react';
 import 'leaflet/dist/leaflet.css';
 import parks from './components/parkinfo.json';
 import 'leaflet/dist/leaflet.css';
 import { useMap } from 'react-leaflet';
+
 
 // Dynamically import components with no server-side rendering
 const MapContainerNoSSR = dynamic(
@@ -18,9 +19,9 @@ const TileLayerNoSSR = dynamic(
   { ssr: false }
 );
 
-const L = dynamic(() => import('leaflet'), { ssr: false });
 const ParkInfo = dynamic(() => import('./components/parks'), { ssr: false });
 const ParkMarker = dynamic(() => import('./components/markers'), { ssr: false });
+
 
 
 const ParkMarkers = memo(() => {
