@@ -1,42 +1,71 @@
-'use client'
-import { MapContainer, TileLayer, Marker, useMap } from 'react-leaflet';
-import ParkInfo from './components/parks';
-import React, { useEffect, useState } from 'react';
-import 'leaflet/dist/leaflet.css';
-import ParkMarker from './components/markers';
-import L from 'leaflet';
-import markerIcon2x from 'leaflet/dist/images/marker-icon-2x.png';
-import markerIcon from 'leaflet/dist/images/marker-icon.png';
-import markerShadow from 'leaflet/dist/images/marker-shadow.png';
-import parks from './components/parkinfo.json';
-import dynamic from 'next/dynamic';
+'use client';
 
-const MapContainerWithNoSSR = dynamic(
+import dynamic from 'next/dynamic';
+import React, { useState } from 'react';
+import 'leaflet/dist/leaflet.css';
+import parks from './components/parkinfo.json';
+
+// Dynamically import components with no server-side rendering
+const MapContainer = dynamic(
   () => import('react-leaflet').then((mod) => mod.MapContainer),
-  { ssr: false } // Disable server-side rendering
+  { ssr: false }
 );
 
-const TileLayerWithNoSSR = dynamic(
+const TileLayer = dynamic(
   () => import('react-leaflet').then((mod) => mod.TileLayer),
   { ssr: false }
 );
 
-const ParkMarkersWithNoSSR = dynamic(() => import('./components/ParkMarkers'), { ssr: false });
+const useMap = dynamic(
+  () => import('react-leaflet').then((mod) => mod.useMap),
+  { ssr: false }
+);
 
-delete L.Icon.Default.prototype._getIconUrl;
-L.Icon.Default.mergeOptions({
+const L = dynamic(() => import('leaflet'), { ssr: false });
+const ParkInfo = dynamic(() => import('./components/parks'), { ssr: false });
+const ParkMarker = dynamic(() => import('./components/markers'), { ssr: false });
+
+// Handle Leaflet marker icons
+if (typeof window !== 'undefined') {
+  const { Icon } = require('leaflet');
+  const markerIcon2x = require('leaflet/dist/images/marker-icon-2x.png');
+  const markerIcon = require('leaflet/dist/images/marker-icon.png');
+  const markerShadow = require('leaflet/dist/images/marker-shadow.png');
+
+  delete Icon.Default.prototype._getIconUrl;
+  Icon.Default.mergeOptions({
     iconUrl: markerIcon.src,
     iconRetinaUrl: markerIcon2x.src,
     shadowUrl: markerShadow.src,
-})
+  });
+}
 
+const ParkMarkers = () => {
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [selectedPark, setSelectedPark] = useState(null);
+  const map = useMap();
 
+  const handleMarkerClick = (park) => {
+    setSelectedPark(park);
+    setSidebarOpen(true);
+  };
+
+  return (
+    <>
+      <ParkMarker parks={parks} onMarkerClick={handleMarkerClick} />
+      <ParkInfo
+        park={selectedPark}
+        onClose={() => setSidebarOpen(false)}
+        isOpen={sidebarOpen}
+      />
+    </>
+  );
+};
 
 function Main() {
-
-  return(
+  return (
     <div style={{ height: '100vh', width: '100%' }}>
-    <MapContainerWithNoSSR
+      <MapContainer
         center={[35.307, -80.735]}
         zoom={6.5}
         minZoom={6.5}
@@ -47,15 +76,16 @@ function Main() {
         ]}
         maxBoundsViscosity={1.0}
         style={{ height: '100%', width: '100%' }}
-    >
-        <TileLayerWithNoSSR
+      >
+        <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution="&copy; OpenStreetMap contributors"
         />
-      <ParkMarkersWithNoSSR/>
-      </MapContainerWithNoSSR>
-  </div>
-    );
+        <ParkMarkers />
+      </MapContainer>
+    </div>
+  );
 }
 
 export default Main;
+
