@@ -35,13 +35,16 @@ const ParkMarkers = memo(() => {
 
   useEffect(() => {
     if (sidebarOpen) {
-      map.scrollWheelZoom.disable(); // Disable scrolling
+      map.scrollWheelZoom.disable();
+      map.dragging.disable(); // Disable dragging
     } else {
-      map.scrollWheelZoom.enable(); // Enable scrolling
+      map.scrollWheelZoom.enable();
+      map.dragging.enable(); // Enable dragging
     }
-
+  
     return () => {
-      map.scrollWheelZoom.enable(); // Ensure scrolling is re-enabled on unmount
+      map.scrollWheelZoom.enable();
+      map.dragging.enable(); // Ensure re-enabling on unmount
     };
   }, [sidebarOpen, map]);
 
