@@ -1,6 +1,5 @@
 'use client'
 import { MapContainer, TileLayer, Marker, useMap } from 'react-leaflet';
-import { Icon } from 'leaflet';
 import ParkInfo from './components/parks';
 import React, { useEffect, useState } from 'react';
 import 'leaflet/dist/leaflet.css';
