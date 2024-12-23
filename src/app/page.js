@@ -21,7 +21,7 @@ const TileLayerWithNoSSR = dynamic(
   { ssr: false }
 );
 
-const ParkMarkersWithNoSSR = dynamic(() => import('./components/parks'), { ssr: false });
+const ParkMarkersWithNoSSR = dynamic(() => import('./components/ParkMarkers'), { ssr: false });
 
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
@@ -30,34 +30,9 @@ L.Icon.Default.mergeOptions({
     shadowUrl: markerShadow.src,
 })
 
-const ParkMarkers = () => {
 
-  const [sidebarOpen, setSidebarOpen] = useState(false)
-  const [selectedPark, setSelectedPark] = useState(null);
-  const map = useMap();
-
-  const handleMarkerClick = (park) => {
-    setSelectedPark(park);
-    setSidebarOpen(true);
-  };
-
-  return(
-    <>
-      <ParkMarker
-        parks = {parks}
-        onMarkerClick = { handleMarkerClick }
-      />
-      <ParkInfo
-        park = { selectedPark }
-        onClose = {() => setSidebarOpen(false)}
-        isOpen = { sidebarOpen }
-      />
-    </>
-  );
-};
 
 function Main() {
-
 
   return(
     <div style={{ height: '100vh', width: '100%' }}>
@@ -77,7 +52,7 @@ function Main() {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution="&copy; OpenStreetMap contributors"
         />
-      <ParkMarkers/>
+      <ParkMarkersWithNoSSR/>
       </MapContainerWithNoSSR>
   </div>
     );
