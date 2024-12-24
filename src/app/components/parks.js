@@ -37,7 +37,7 @@ const ParkInfo = ({ park, isOpen, onClose }) => {
             />
             <hr className="solid"></hr>
             <Gallery park = {park}/>
-            <p>
+            <p style={{ textAlign: "center", fontSize: "200%", marginBottom: "20px" }}>
               { park?.personalText }
             </p>
 
