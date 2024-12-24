@@ -88,7 +88,7 @@
   },
   {
     "name": "Dismal Swamp",
-    "text": "placeholder text",
+    "text": "Located in Camden County abutting the state's northeast border with Virginia, Dismal Swamp State Park provides access to the Great Dismal Swamp, the largest remaining swamp in the eastern United States. This area features unique and abundant plant life and wildlife, as well as a rich cultural history that intertwines with George Washington, the Underground Railroad, and Prohibition. The 22-mile Dismal Swamp Canal is a popular paddling destination and hosts the annual Paddle for the Border event.",
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Photo_of_the_Week_-_Great_Dismal_Swamp_National_Wildlife_Refuge_%28VA%29_%284578425529%29.jpg", 
     "lat": 36.50497368805297,
     "lng": -76.35584655092417,
@@ -199,12 +199,12 @@
     "lng": -76.91057155092416,
     "personalImages": 
       [
-        {"src": "/Images/FallsLake/PXL_20230506_143302639.jpg", "alt": "alt text"},
-        {"src": "/Images/FallsLake/PXL_20230506_143331937.jpg", "alt": "alt text"},
-        {"src": "/Images/FallsLake/PXL_20230506_143527992.jpg", "alt": "alt text"},
-        {"src": "/Images/FallsLake/PXL_20230506_143709378.jpg", "alt": "alt text"},
-        {"src": "/Images/FallsLake/PXL_20230506_145325682.jpg", "alt": "alt text"},
-        {"src": "/Images/FallsLake/PXL_20230506_150112390.jpg", "alt": "alt text"}
+        {"src": "/Images/GooseCreek/PXL_20230506_143302639.jpg", "alt": "alt text"},
+        {"src": "/Images/GooseCreek/PXL_20230506_143331937.jpg", "alt": "alt text"},
+        {"src": "/Images/GooseCreek/PXL_20230506_143527992.jpg", "alt": "alt text"},
+        {"src": "/Images/GooseCreek/PXL_20230506_143709378.jpg", "alt": "alt text"},
+        {"src": "/Images/GooseCreek/PXL_20230506_145325682.jpg", "alt": "alt text"},
+        {"src": "/Images/GooseCreek/PXL_20230506_150112390.jpg", "alt": "alt text"}
       ],
     "personalText": ""
   },

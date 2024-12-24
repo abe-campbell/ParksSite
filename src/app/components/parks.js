@@ -24,10 +24,10 @@ const ParkInfo = ({ park, isOpen, onClose }) => {
             > 
                 X
             </button>
-            <p style={{ textAlign: "center", fontSize: "500%" }}>
+            <p style={{ textAlign: "center", fontSize: "200%" }}>
                 { park?.name }
             </p>
-            <p style={{ textAlign: "center", fontSize: "200%", marginBottom: "20px" }}>
+            <p style={{ textAlign: "center", fontSize: "100%", marginBottom: "10px" }}>
               { park?.text }
             </p>
             <img
@@ -37,7 +37,7 @@ const ParkInfo = ({ park, isOpen, onClose }) => {
             />
             <hr className="solid"></hr>
             <Gallery park = {park}/>
-            <p style={{ textAlign: "center", fontSize: "200%", marginBottom: "20px" }}>
+            <p style={{ textAlign: "center", fontSize: "100%", marginBottom: "10px" }}>
               { park?.personalText }
             </p>
 
