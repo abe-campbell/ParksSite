@@ -398,7 +398,7 @@
         {"src": "/Images/KerrLake/PXL_20220918_141429254.jpg", "alt": "alt text"},
         {"src": "/Images/KerrLake/PXL_20220918_141925727.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe \n The laser tag for Mom’s 40th birthday party was tons of fun! I always liked camping right by a lake. -Quin"
+    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe <br> The laser tag for Mom's 40th birthday party was tons of fun! I always liked camping right by a lake. -Quin"
   },
   {
     "name": "Lake James",
@@ -583,9 +583,7 @@
     "lng": -79.11714595092415,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
     "personalText": "fart"
   },
@@ -597,9 +595,11 @@
     "lng": -76.42102423558227,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/Pettigrew/00000IMG_00000_BURST20191231111542468_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/Pettigrew/IMG_20191231_110255.jpg", "alt": "alt text"},
+        {"src": "/Images/Pettigrew/", "alt": "alt text"},
+        {"src": "/Images/Pettigrew/", "alt": "alt text"},
+        {"src": "/Images/Pettigrew/", "alt": "alt text"}
       ],
     "personalText": "fart"
   },
