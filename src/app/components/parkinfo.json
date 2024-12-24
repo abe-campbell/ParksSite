@@ -492,7 +492,7 @@
       [
 
       ],
-    "personalText": "I have 5 pictures here but none of them saved right. Ill re-save them once this is revealed and I can work on it not in secret."
+    "personalText": "I have 5 pictures here but none of them saved right. Ill re-save them once this is revealed and I can work on it not in secret. -Abe"
   },
   {
     "name": "Merchants Millpond",
@@ -502,11 +502,16 @@
     "lng": -76.69915776441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/MerchantsMillpond/00000IMG_00000_BURST20191229113546257_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/00000IMG_00000_BURST20191229113642540_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/00000IMG_00000_BURST20191229113706205_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/IMG_20191229_113518.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/IMG_20191229_114341.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/IMG_20191229_115131.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/IMG_20191229_115930.jpg", "alt": "alt text"},
+        {"src": "/Images/MerchantsMillpond/MVIMG_20191229_113156.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Morrow Mountain",
@@ -516,11 +521,9 @@
     "lng": -80.10116392393701,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Mount Jefferson",
@@ -530,11 +533,9 @@
     "lng": -81.47023034907583,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": "I have 5 pictures here but none of them saved right. Ill re-save them once this is revealed and I can work on it not in secret. -Abe"
   },
   {
     "name": "Mount Mitchell",
@@ -544,11 +545,17 @@
     "lng": -82.26323358955653,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/MountMitchell/original_766e8e6d-cf9a-4d7b-8b82-0c35e4a514e4_PXL_20230806_140854973.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_135351960.PORTRAIT.ORIGINAL.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_140316952.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_140323036.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_140351754~2.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_140449577~3.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_140551249.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230806_140621792.jpg", "alt": "alt text"},
+        {"src": "/Images/MountMitchell/PXL_20230812_234751448.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "New River",
@@ -558,11 +565,15 @@
     "lng": -81.34168434907583,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/NewRiver/1001161111.jpg", "alt": "alt text"},
+        {"src": "/Images/NewRiver/1001161114a.jpg", "alt": "alt text"},
+        {"src": "/Images/NewRiver/1001161323.jpg", "alt": "alt text"},
+        {"src": "/Images/NewRiver/1001161423.jpg", "alt": "alt text"},
+        {"src": "/Images/NewRiver/1001161429b.jpg", "alt": "alt text"},
+        {"src": "/Images/NewRiver/1001161429c.jpg", "alt": "alt text"},
+        {"src": "/Images/NewRiver/1001161850a.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Occoneechee Mountain",
