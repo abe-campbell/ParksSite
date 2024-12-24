@@ -398,7 +398,7 @@
         {"src": "/Images/KerrLake/PXL_20220918_141429254.jpg", "alt": "alt text"},
         {"src": "/Images/KerrLake/PXL_20220918_141925727.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe <br> The laser tag for Mom's 40th birthday party was tons of fun! I always liked camping right by a lake. -Quin"
+    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe The laser tag for Mom's 40th birthday party was tons of fun! I always liked camping right by a lake. -Quin"
   },
   {
     "name": "Lake James",
@@ -585,7 +585,7 @@
       [
 
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Pettigrew",
@@ -597,11 +597,11 @@
       [
         {"src": "/Images/Pettigrew/00000IMG_00000_BURST20191231111542468_COVER.jpg", "alt": "alt text"},
         {"src": "/Images/Pettigrew/IMG_20191231_110255.jpg", "alt": "alt text"},
-        {"src": "/Images/Pettigrew/", "alt": "alt text"},
-        {"src": "/Images/Pettigrew/", "alt": "alt text"},
-        {"src": "/Images/Pettigrew/", "alt": "alt text"}
+        {"src": "/Images/Pettigrew/IMG_20191231_110356.jpg", "alt": "alt text"},
+        {"src": "/Images/Pettigrew/IMG_20191231_110517.jpg", "alt": "alt text"},
+        {"src": "/Images/Pettigrew/MVIMG_20191231_110259.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Pilot Mountain",
@@ -611,11 +611,9 @@
     "lng": -80.47744916256941,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "I pass Pilot Mountain every time I go back to Blacksburg. I remember the first time I ever drove up there by myself my senior year I stopped at the Pilot Mountain scenic highway pull off and thought about how excited I was for college- I think about our trip every time I pass it. -Quin"
+    "personalText": "I pass Pilot Mountain every time I go back to Blacksburg. I remember the first time I ever drove up there by myself my senior year I stopped at the Pilot Mountain scenic highway pull off and thought about how excited I was for college- I think about our trip every time I pass it. -Quin saved"
   },
   {
     "name": "Raven Rock",
@@ -625,11 +623,19 @@
     "lng": -78.91360092208868,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/RavenRock/0704160918c.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704160922.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704160928b.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704160930.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704160933.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704160951.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704161008a_HDR.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704161010a.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704161128.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704161130b.jpg", "alt": "alt text"},
+        {"src": "/Images/RavenRock/0704161133d.jpg", "alt": "alt text"}
       ],
-    "personalText": "This is definitely one of my top favorite parks and I’ve chosen to go back and visit lots of times. I remember this was the last main “hangout” that Abe and Del and I did before I left for my internship this summer. -Quin"
+    "personalText": "This is definitely one of my top favorite parks and I've chosen to go back and visit lots of times. I remember this was the last main “hangout” that Abe and Del and I did before I left for my internship this summer. -Quin"
   },
   {
     "name": "Rendezvous Mountain",
@@ -639,11 +645,9 @@
     "lng": -81.28767446441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Singletary Lake",
@@ -653,11 +657,17 @@
     "lng": -78.44987863558228,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/SingletaryLake/PXL_20231223_182933746.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_183121798.PORTRAIT.ORIGINAL~2.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_183223523.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_183225069.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_183251286.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_183328957.PORTRAIT.ORIGINAL.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_185302614.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_185917774.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/SingletaryLake/PXL_20231223_190249826.PORTRAIT.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "South Mountains",
@@ -667,11 +677,13 @@
     "lng": -81.68301863558227,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/SouthMountains/PXL_20230806_221533330.jpg", "alt": "alt text"},
+        {"src": "/Images/SouthMountains/PXL_20230806_221607081~2.jpg", "alt": "alt text"},
+        {"src": "/Images/SouthMountains/PXL_20230806_221628938.jpg", "alt": "alt text"},
+        {"src": "/Images/SouthMountains/PXL_20230806_221633601.jpg", "alt": "alt text"},
+        {"src": "/Images/SouthMountains/PXL_20230806_221918618.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Stone Mountain",
@@ -681,11 +693,9 @@
     "lng": -81.0224336779113,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/StoneMountain/61867623416__7DAD9B0E-3D26-4AD2-9AEC-1BD3E3CED082.JPG", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": "I always liked how straightforward the name of this one is. The park is quite literally a stone mountain saved"
   },
   {
     "name": "Weymouth Woods",
@@ -695,9 +705,10 @@
     "lng": -79.36899266441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/WeymouthWoods/IMG_6687.JPG", "alt": "alt text"},
+        {"src": "/Images/WeymouthWoods/IMG_6709.JPG", "alt": "alt text"},
+        {"src": "/Images/WeymouthWoods/IMG_6714.JPG", "alt": "alt text"},
+        {"src": "/Images/WeymouthWoods/IMG_6719.JPG", "alt": "alt text"}
       ],
     "personalText": "I think this is where Mom took the picture that she printed on my notebook- I use that notebook for everything from my internship, job interviews, fire camp, and classes, and always remember this trip. -Quin"
   },
@@ -709,9 +720,7 @@
     "lng": -78.75177646256941,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
     "personalText": "I remember going on family hikes here often as a kid, and with friends as I got older. -Quin"
   }
