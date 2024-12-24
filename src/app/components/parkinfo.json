@@ -339,9 +339,14 @@
     "lng": -78.5958636779113,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/JonesLake/original_12727f4a-af5f-4667-a0f7-2d18827aa76f_PXL_20231223_175034520.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_171538441.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_171656849.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_173134332.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_173146848.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_173758776.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_180255719.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/JonesLake/PXL_20231223_180326951.jpg", "alt": "alt text"}
       ],
     "personalText": ""
   },
@@ -353,15 +358,23 @@
     "lng": -79.01719222024036,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/JordanLake/IMG_1765.JPG", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_1780.JPG", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_20180701_101152113.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_20180701_122554225.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_20180701_144008379_BURST000_COVER_TOP.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_20190814_143107098_BURST000_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_3853.JPG", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_7844.JPG", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_7867.JPG", "alt": "alt text"},
+        {"src": "/Images/JordanLake/IMG_7918.JPG", "alt": "alt text"},
+        {"src": "/Images/JordanLake/original_cd5ce2cc-d515-4a3d-9e49-11a31c23c685_PXL_20240715_130313823.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/PXL_20240101_144619645.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/PXL_20240406_163820036.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/PXL_20240408_213349730.jpg", "alt": "alt text"},
+        {"src": "/Images/JordanLake/PXL_20240511_194236665.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type :( -Abe"
   },
   {
     "name": "Kerr Lake",
@@ -371,11 +384,21 @@
     "lng": -78.3663943220887,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/KerrLake/IMG_20180505_175326913.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/IMG_20180505_183822803.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/IMG_20181021_100515253.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/IMG_20181021_100915073.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/IMG_20181021_103826267.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/IMG_20190519_100212318.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220916_215034299.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220916_234520440.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220917_181229770.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220917_224300081.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220918_115933775.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220918_141429254.jpg", "alt": "alt text"},
+        {"src": "/Images/KerrLake/PXL_20220918_141925727.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type :( -Abe"
   },
   {
     "name": "Lake James",
@@ -385,11 +408,9 @@
     "lng": -81.87589450674679,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Lake Norman",
@@ -399,11 +420,17 @@
     "lng": -80.94081963558226,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/LakeNorman/original_1ae9b0b4-2857-4e34-a718-3f87ad9076e5_PXL_20230807_154739497.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/original_1eb979d2-a1fa-41ce-8001-320a6c6e957b_PXL_20230807_154608816.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/original_4d2dbf44-a653-4a2a-a1f2-c3f7a3187801_PXL_20230807_155128561~2.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/original_5c6eff3c-cf6c-44d0-ac26-414786bdcc54_PXL_20230807_160234992.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/original_6985e60c-d320-4fa4-861b-d0b43da9cd2c_PXL_20230807_160010564.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/original_9ba04252-5433-4f1a-b5a4-39fe107216f8_PXL_20230807_154401392~2.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/original_9c69a411-835f-4752-98c5-6b349d06257a_PXL_20230807_155020013.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/PXL_20230807_154345255.jpg", "alt": "alt text"},
+        {"src": "/Images/LakeNorman/PXL_20230807_155232372.PORTRAIT~3.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Lake Waccamaw",
@@ -413,11 +440,9 @@
     "lng": -78.46570916441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": "I have a couple pictures here but not one of them saved correctly :( -Abe"
   },
   {
     "name": "Lumber River",
@@ -427,9 +452,14 @@
     "lng": -79.00108040489846,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/", "alt": "alt text"}
       ],
     "personalText": "fart"
   },
