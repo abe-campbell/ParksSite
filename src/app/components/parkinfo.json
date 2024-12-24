@@ -374,7 +374,7 @@
         {"src": "/Images/JordanLake/PXL_20240408_213349730.jpg", "alt": "alt text"},
         {"src": "/Images/JordanLake/PXL_20240511_194236665.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type :( -Abe"
+    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe"
   },
   {
     "name": "Kerr Lake",
@@ -398,7 +398,7 @@
         {"src": "/Images/KerrLake/PXL_20220918_141429254.jpg", "alt": "alt text"},
         {"src": "/Images/KerrLake/PXL_20220918_141925727.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type :( -Abe"
+    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe"
   },
   {
     "name": "Lake James",
@@ -442,7 +442,7 @@
       [
 
       ],
-    "personalText": "I have a couple pictures here but not one of them saved correctly :( -Abe"
+    "personalText": "I have a couple pictures here but not one of them saved correctly. Ill re-save them once this is revealed and I can work on it not in secret.-Abe"
   },
   {
     "name": "Lumber River",
@@ -452,16 +452,16 @@
     "lng": -79.00108040489846,
     "personalImages": 
       [
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"},
-        {"src": "/Images/LumberRiver/", "alt": "alt text"}
+        {"src": "/Images/LumberRiver/IMG_8824~2.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_173132583.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_173519687.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_173658546.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_173753002.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_173825063.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_173857363.jpg", "alt": "alt text"},
+        {"src": "/Images/LumberRiver/PXL_20231226_174704732.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Mayo River",
@@ -471,11 +471,16 @@
     "lng": -79.94904067975965,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/MayoRiver/PXL_20221227_152002719.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_152028320.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_152714357.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_154231453.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_154254148.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_154707035.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_161410821.PORTRAIT.jpg", "alt": "alt text"},
+        {"src": "/Images/MayoRiver/PXL_20221227_162053259.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Medoc Mountain",
@@ -485,11 +490,9 @@
     "lng": -77.88865403558226,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": "I have 5 pictures here but none of them saved right. Ill re-save them once this is revealed and I can work on it not in secret."
   },
   {
     "name": "Merchants Millpond",
