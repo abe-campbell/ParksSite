@@ -28,12 +28,9 @@
     "lng": -78.97604663381398,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
     "personalText": "fart"
-    
   },
   {
     "name": "Chimney Rock",
@@ -43,9 +40,16 @@
     "lng": -82.24876265462082,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/ChimneyRock/0905160936_HDR.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905160949a.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905160949b.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905160950a.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905161000d.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905161001.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905161017a.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905161020.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905161114.jpg", "alt": "alt text"},
+        {"src": "/Images/ChimneyRock/0905161120a.jpg", "alt": "alt text"}
       ],
     "personalText": "fart"
   },
@@ -71,7 +75,7 @@
     "lng": -81.31415146441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/", "alt": "alt text"},
         {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
         {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
       ],

@@ -38,14 +38,17 @@ const ParkMarkers = memo(() => {
     if (sidebarOpen) {
       map.scrollWheelZoom.disable();
       map.dragging.disable(); // Disable dragging
+      map.touchZoom.disable();
     } else {
       map.scrollWheelZoom.enable();
       map.dragging.enable(); // Enable dragging
+      map.touchZoom.enable();
     }
   
     return () => {
       map.scrollWheelZoom.enable();
       map.dragging.enable(); // Ensure re-enabling on unmount
+      map.touchZoom.enable();
     };
   }, [sidebarOpen, map]);
 
