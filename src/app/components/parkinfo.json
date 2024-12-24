@@ -230,9 +230,26 @@
       [
         {"src": "/Images/GrandfatherMountain/IMG_3082.jpg", "alt": "alt text"},
         {"src": "/Images/GrandfatherMountain/IMG_3091.jpg", "alt": "alt text"},
-        {"src": "/Images/GrandfatherMountain/IMG_3180.jpg", "alt": "alt text"}
+        {"src": "/Images/GrandfatherMountain/IMG_3180.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_2996.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3031.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3041.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3057.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3073.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3080.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3091.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3111.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3124.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3127.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3130.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3134.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3221.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3254.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3260.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3262.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/GrandfatherMountain/IMG_3288.jpg", "alt": "alt text"}
       ],
-    "personalText": "I had a bunch of pictures for grandfather mountain, like one of the highest amount out of any park, but all but 3 saved as the wrong file type so i gotta go back and fix that. -Abe"
+    "personalText": "I was so happy when I crossed the bridge here and then was able to run back and forth with no issue. -Abe"
   },
   {
     "name": "Hammocks Beach",
@@ -372,9 +389,17 @@
         {"src": "/Images/JordanLake/PXL_20240101_144619645.jpg", "alt": "alt text"},
         {"src": "/Images/JordanLake/PXL_20240406_163820036.jpg", "alt": "alt text"},
         {"src": "/Images/JordanLake/PXL_20240408_213349730.jpg", "alt": "alt text"},
-        {"src": "/Images/JordanLake/PXL_20240511_194236665.jpg", "alt": "alt text"}
+        {"src": "/Images/JordanLake/PXL_20240511_194236665.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_0881.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_0903.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_0926.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_1122.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_1125.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_1863.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_3822.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/JordanLake/IMG_6105.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe \n I have so many memories from Jordan Lake- from camping to summer lake days to night-time star programs. -Quin"
+    "personalText": "I have so many memories from Jordan Lake- from camping to summer lake days to night-time star programs. -Quin"
   },
   {
     "name": "Kerr Lake",
@@ -396,9 +421,18 @@
         {"src": "/Images/KerrLake/PXL_20220917_224300081.jpg", "alt": "alt text"},
         {"src": "/Images/KerrLake/PXL_20220918_115933775.jpg", "alt": "alt text"},
         {"src": "/Images/KerrLake/PXL_20220918_141429254.jpg", "alt": "alt text"},
-        {"src": "/Images/KerrLake/PXL_20220918_141925727.jpg", "alt": "alt text"}
+        {"src": "/Images/KerrLake/PXL_20220918_141925727.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9203.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9248.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9289.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9295.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9309.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9320.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9369.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9372.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/KerrLake/IMG_9398.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have way more pictures for here but a bunch saved as the wrong file type. Ill re-save them once this is revealed and I can work on it not in secret. -Abe The laser tag for Mom's 40th birthday party was tons of fun! I always liked camping right by a lake. -Quin"
+    "personalText": "The laser tag for Mom's 40th birthday party was tons of fun! I always liked camping right by a lake. -Quin"
   },
   {
     "name": "Lake James",
@@ -440,7 +474,9 @@
     "lng": -78.46570916441773,
     "personalImages": 
       [
-
+        {"src": "/ImagesConv/LakeWaccamaw/IMG_5115.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/LakeWaccamaw/IMG_5120.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/LakeWaccamaw/IMG_5123.jpg", "alt": "alt text"}
       ],
     "personalText": "I have a couple pictures here but not one of them saved correctly. Ill re-save them once this is revealed and I can work on it not in secret.-Abe"
   },
@@ -490,9 +526,13 @@
     "lng": -77.88865403558226,
     "personalImages": 
       [
-
+        {"src": "/ImagesConv/MedocMountain/IMG_1589.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MedocMountain/IMG_1600.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MedocMountain/IMG_5895.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MedocMountain/IMG_5902.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MedocMountain/IMG_5908.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have 5 pictures here but none of them saved right. Ill re-save them once this is revealed and I can work on it not in secret. -Abe"
+    "personalText": ""
   },
   {
     "name": "Merchants Millpond",
@@ -533,9 +573,12 @@
     "lng": -81.47023034907583,
     "personalImages": 
       [
-
+        {"src": "/ImagesConv/MountJefferson/IMG_2800.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MountJefferson/IMG_2805.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MountJefferson/IMG_2810.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/MountJefferson/IMG_2889.jpg", "alt": "alt text"}
       ],
-    "personalText": "I have 5 pictures here but none of them saved right. Ill re-save them once this is revealed and I can work on it not in secret. -Abe"
+    "personalText": ""
   },
   {
     "name": "Mount Mitchell",
@@ -611,9 +654,13 @@
     "lng": -80.47744916256941,
     "personalImages": 
       [
-
+        {"src": "/ImagesConv/PilotMountain/IMG_3505.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/PilotMountain/IMG_3516.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/PilotMountain/IMG_3520.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/PilotMountain/IMG_3521.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/PilotMountain/IMG_3523.jpg", "alt": "alt text"}
       ],
-    "personalText": "I pass Pilot Mountain every time I go back to Blacksburg. I remember the first time I ever drove up there by myself my senior year I stopped at the Pilot Mountain scenic highway pull off and thought about how excited I was for college- I think about our trip every time I pass it. -Quin saved"
+    "personalText": "I pass Pilot Mountain every time I go back to Blacksburg. I remember the first time I ever drove up there by myself my senior year I stopped at the Pilot Mountain scenic highway pull off and thought about how excited I was for college- I think about our trip every time I pass it. -Quin"
   },
   {
     "name": "Raven Rock",
@@ -693,9 +740,11 @@
     "lng": -81.0224336779113,
     "personalImages": 
       [
-        {"src": "/Images/StoneMountain/61867623416__7DAD9B0E-3D26-4AD2-9AEC-1BD3E3CED082.JPG", "alt": "alt text"}
+        {"src": "/Images/StoneMountain/61867623416__7DAD9B0E-3D26-4AD2-9AEC-1BD3E3CED082.JPG", "alt": "alt text"},
+        {"src": "/ImagesConv/StoneMountain/IMG_2760.jpg", "alt": "alt text"},
+        {"src": "/ImagesConv/StoneMountain/IMG_2763.jpg", "alt": "alt text"}
       ],
-    "personalText": "I always liked how straightforward the name of this one is. The park is quite literally a stone mountain saved"
+    "personalText": "I always liked how straightforward the name of this one is. The park is quite literally a stone mountain"
   },
   {
     "name": "Weymouth Woods",
