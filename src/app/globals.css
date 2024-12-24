@@ -16,6 +16,12 @@ body {
   overflow-x: hidden;
 }
 
+hr.solid {
+  border-top: 6px solid #000000;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
 body {
   color: var(--foreground);
   background: var(--background);
@@ -89,3 +95,4 @@ a {
 .gallery__item:hover {
   transform: scale(1.05);
 }
+
