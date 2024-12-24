@@ -18,7 +18,7 @@
         {"src": "/Images/CarolinaBeach/PXL_20231224_180024648.PORTRAIT.jpg", "alt": "alt text"},
         {"src": "/Images/CarolinaBeach/PXL_20231224_182042899.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Carvers Creek",
@@ -30,7 +30,7 @@
       [
 
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Chimney Rock",
@@ -51,7 +51,7 @@
         {"src": "/Images/ChimneyRock/0905161114.jpg", "alt": "alt text"},
         {"src": "/Images/ChimneyRock/0905161120a.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Cliffs of the Neuse",
@@ -61,11 +61,9 @@
     "lng": -77.89034407606297,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Crowders Mountain",
@@ -75,11 +73,18 @@
     "lng": -81.31415146441773,
     "personalImages": 
       [
-        {"src": "/Images/CrowdersMountain/", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/CrowdersMountain/original_1d4bceb4-3937-4fcc-83b8-766acf4a109f_PXL_20230805_191340294.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/original_5aefd193-191b-4ced-a8da-6fd0a27fe49c_PXL_20230805_191411280~2.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_174336187.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_182334368.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_182406661.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_182406661~2.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_182432189.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_182434089.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_190810509.jpg", "alt": "alt text"},
+        {"src": "/Images/CrowdersMountain/PXL_20230805_193347823.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Dismal Swamp",
@@ -89,11 +94,15 @@
     "lng": -76.35584655092417,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/DismalSwamp/00100lrPORTRAIT_00100_BURST20191229125435108_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/DismalSwamp/IMG_20191229_125920.jpg", "alt": "alt text"},
+        {"src": "/Images/DismalSwamp/IMG_20191229_130833.jpg", "alt": "alt text"},
+        {"src": "/Images/DismalSwamp/IMG_20191229_133527.jpg", "alt": "alt text"},
+        {"src": "/Images/DismalSwamp/IMG_20191229_133548.jpg", "alt": "alt text"},
+        {"src": "/Images/DismalSwamp/IMG_20191229_133647.jpg", "alt": "alt text"},
+        {"src": "/Images/DismalSwamp/MVIMG_20191229_123756.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Elk Knob",
@@ -103,11 +112,9 @@
     "lng": -81.69646935092415,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Eno River",
@@ -117,11 +124,25 @@
     "lng": -79.01366486441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/EnoRiver/0529171029.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/0529171057a_HDR.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/0529171126a.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/1111161351a.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/1111161356b.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/1111161357a.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/1111161405.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_20181202_103510754.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_20181202_110009688.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_20181202_112239116.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_20190101_141127289.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_20190101_141613465.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_20190101_143344057_BURST000_COVER_TOP.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_9065.JPG", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/IMG_9091.JPG", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/original_60456cf2-f77e-4c1d-baef-8710eefb565e_PXL_20230704_145750996.jpg", "alt": "alt text"},
+        {"src": "/Images/EnoRiver/PXL_20230704_163853945.PORTRAIT.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Falls Lake",
@@ -131,11 +152,20 @@
     "lng": -78.69943796441773,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/FallsLake/0514160551_HDR.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0514160608a.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0514161447a.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0514161623.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0515161023.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0515161049.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0515161051a.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0515161052a.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0515161100.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0515161100c.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0730161806d.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/0730161935b.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Fort Fisher",
@@ -145,11 +175,9 @@
     "lng": -77.9226839085951,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Fort Macon",
@@ -159,11 +187,9 @@
     "lng": -76.69226645092417,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Goose Creek",
@@ -173,11 +199,14 @@
     "lng": -76.91057155092416,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/FallsLake/PXL_20230506_143302639.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/PXL_20230506_143331937.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/PXL_20230506_143527992.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/PXL_20230506_143709378.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/PXL_20230506_145325682.jpg", "alt": "alt text"},
+        {"src": "/Images/FallsLake/PXL_20230506_150112390.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Gorges",
@@ -187,11 +216,9 @@
     "lng": -82.9125030932532,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Grandfather Mountain",
@@ -201,11 +228,11 @@
     "lng": -81.81813570674679,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/GrandfatherMountain/IMG_3082.jpg", "alt": "alt text"},
+        {"src": "/Images/GrandfatherMountain/IMG_3091.jpg", "alt": "alt text"},
+        {"src": "/Images/GrandfatherMountain/IMG_3180.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": "I had a bunch of pictures for grandfather mountain, like one of the highest amount out of any park, but all but 3 saved as the wrong file type so i gotta go back and fix that. -Abe"
   },
   {
     "name": "Hammocks Beach",
@@ -215,11 +242,24 @@
     "lng": -77.14181350674679,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/HammocksBeach/IMG_7447.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7452.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7453.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7462.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7511.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7524.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7530.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7537.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7541.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7551.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7563.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7571.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7579.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7592.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7598.JPG", "alt": "alt text"},
+        {"src": "/Images/HammocksBeach/IMG_7612.JPG", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": ""
   },
   {
     "name": "Hanging Rock",
@@ -229,11 +269,31 @@
     "lng": -80.25401255092416,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/HangingRock/0725160953.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161003.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161005a.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161126.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161138c.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161220.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161255.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161305.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161313a.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161318c.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/0725161412b_HDR.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_095115823.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_095207479.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_102630052.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_104010590.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_112942678.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_113017796.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_114957813.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_124752476.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_130735172.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_131742834.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_131935069.jpg", "alt": "alt text"},
+        {"src": "/Images/HangingRock/IMG_20180625_134233948_BURST000_COVER_TOP.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": "Really hard to count how many images I had, theres a bunch here. I had forgotten we went with the Kaufmans. -Abe"
   },
   {
     "name": "Haw River",
@@ -243,11 +303,9 @@
     "lng": -79.75276972024034,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+
       ],
-    "personalText": "fart"
+    "personalText": "Suprised we didnt have any pictures here, but maybe google photos just tried to hide them from me. It was pretty unreliable. -Abe"
   },
   {
     "name": "Jockey's Ridge",
@@ -257,11 +315,21 @@
     "lng": -75.63263466441772,
     "personalImages": 
       [
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"},
-        {"src": "https://i.kym-cdn.com/entries/icons/mobile/000/041/742/cover3.jpg", "alt": "alt text"}
+        {"src": "/Images/JockeysRidge/00000IMG_00000_BURST20191230120258881_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/00000IMG_00000_BURST20191230120333448_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/00000IMG_00000_BURST20191230120829468_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/00000IMG_00000_BURST20191230123528797_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/00100sPORTRAIT_00100_BURST20191230120529855_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/00100sPORTRAIT_00100_BURST20191230123628183_COVER.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_115846_1.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_120134.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_120154.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_121409.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_122741.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_123340.jpg", "alt": "alt text"},
+        {"src": "/Images/JockeysRidge/IMG_20191230_123356.jpg", "alt": "alt text"}
       ],
-    "personalText": "fart"
+    "personalText": "This one is my favorite (Dismal Swamp is my favorite if we're going by names though). The big dunes and really strong wind made it unique and an overall good time. I accidentally saved a video of me throwing my jacket, I remember the pockets were completley filled with sand for months afterwards. -Abe"
   },
   {
     "name": "Jones Lake",
